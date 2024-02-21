@@ -1,0 +1,29 @@
+[
+    {
+        "title": "proteinas",
+        "description": "Ssuero de leche",
+        "price": 50000,
+        "stock": 20,
+        "code": "L123",
+        "thumbnail": [],
+        "id": "1747ea8e4b47e46934ba"
+    },
+    {
+        "title": "creatina",
+        "description": "monhidrato de creatina",
+        "price": 30000,
+        "stock": 20,
+        "code": "Y243",
+        "thumbnail": [],
+        "id": "e8d4db4bdedf152c83c2"
+    },
+    {
+        "title": "shaker",
+        "description": "shaker de plastico resistente, 1 Lt",
+        "price": 5000,
+        "stock": 20,
+        "code": "A433",
+        "thumbnail": [],
+        "id": "ed278bf2d3ebbc8b5af6"
+    }
+]
