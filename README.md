@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # preEntrega1CarlosEgana
 primera pre entrega (BACKEND)
 ENTREGA DEL PROYECTO FINAL
@@ -52,3 +53,6 @@ respaldan la información.
 No es necesario realizar ninguna implementación visual, todo el flujo se puede realizar por Postman o por el cliente de tu preferencia.
 
 
+=======
+# practicaIntegradora1
+>>>>>>> 83c31143d1302585c854cb3793bc79a9a9f508cb
