@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Tu cambio local
-=======
-Cambio remoto
->>>>>>> origin/main
+practca integradoraa 1 programacion backend
