@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Cambio en la rama local
+Tu cambio local
 =======
-Cambio en la rama remota
->>>>>>> branch-remota
+Cambio remoto
+>>>>>>> origin/main
